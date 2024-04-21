@@ -2,7 +2,7 @@
 
 Hi! My name is Peter and this is my repository for the introduction to machine learning class. This repository will go through major algorithms in machine learning and put some major machine learning algorithms into practice. 
 
-I have played soccer ever since I was a kid, so to demonstrate these machine learning techniques, I will use soccer data to combine this new, interesting topic, with something I love.
+I have played soccer ever since I was a kid, so to demonstrate these machine learning techniques, I will use soccer data from the 2022-2023 English Premeire League Season to combine this new, interesting topic, with something I love.
 
 ### Applications of Machine Learning
 
