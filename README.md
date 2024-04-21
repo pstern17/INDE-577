@@ -1,10 +1,8 @@
 # INDE 577 -- Data Science and Machine Learning
 
-Welcome to the repository for a graduate-level industrial engineering course on the fundamentals of data science and machine learning.
+Hi! My name is Peter and this is my repository for the introduction to machine learning class. This repository will go through major algorithms in machine learning and put some major machine learning algorithms into practice. 
 
-## Introduction to Machine Learning
-
-Machine learning is a field of study that focuses on developing algorithms capable of learning and making predictions or decisions without explicit programming instructions. It has various applications, including simplifying complex problems, adapting to changing environments, and analyzing large datasets.
+I have played soccer ever since I was a kid, so to demonstrate these machine learning techniques, I will use soccer data to combine this new, interesting topic, with something I love.
 
 ### Applications of Machine Learning
 
@@ -16,9 +14,11 @@ Machine learning can be applied in diverse areas such as:
 - **Insights Generation**: Uncovering patterns and trends in data, summarizing documents, and evaluating feature importance.
 - **Content Preparation**: Predicting future behavior, optimizing content delivery, and visualizing high-dimensional data.
 
+While I will be implementing the algorithms on soccer data, machine learning can be applied in so many different areas to visualize, analyze, and understand the world around us. 
+
 ## Course Overview
 
-This repository contains Jupyter Notebook projects demonstrating machine learning algorithms covered during the Fall 2021 semester at Rice University. The course topics include an introduction to scikit-learn, Keras, and TensorFlow 2, linear and logistic regression, clustering, support vector machines, random forest trees, neural networks, deep learning, and natural language processing. Prerequisites include three semesters of calculus and some programming experience.
+This repository contains Jupyter Notebook projects demonstrating machine learning algorithms covered during the Fall 2024 semester at Rice University. The course topics include an introduction to scikit-learn, Keras, and TensorFlow 2, linear and logistic regression, clustering, support vector machines, random forest trees, neural networks, deep learning, and natural language processing.
 
 ## Types of Machine Learning Algorithms
 
@@ -65,12 +65,4 @@ For further reading and resources, please refer to the following:
 - Python Basics: A Practical Introduction to Python3
 - Python Machine Learning
 
-## Instructor
-
-Dr. Randy Davila
-- Adjunct Faculty
-- Department of Computational and Applied Mathematics
-- Rice University, Houston, TX
-- Email: rrd6@rice.edu
-
-This repository serves as a practical resource for understanding and implementing machine learning algorithms within the context of data science, providing valuable insights into the applications and techniques of this rapidly evolving field.
+For me, this repository served as a way for me to understand machine learning algorithms. I hope for others, it will serve as a practical resource for understanding and implementing machine learning algorithms within the context of data science, providing valuable insights into the applications and techniques of this rapidly evolving field.
