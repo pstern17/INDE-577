@@ -2,10 +2,10 @@
 
 Unsupervised machine learning is a branch of artificial intelligence that deals with finding patterns and relationships in data without the need for labeled examples. Unlike supervised learning, where the algorithm is provided with labeled data to learn from, unsupervised learning algorithms work on unlabeled data, making it a powerful tool for exploratory data analysis and discovering hidden structures.
 
-## History
+## History:
 The concept of unsupervised learning has been around for several decades. It gained prominence in the field of machine learning in the 1960s and 1970s with the development of clustering algorithms such as k-means and hierarchical clustering. Since then, various unsupervised learning algorithms have been developed and applied to a wide range of domains, including data mining, pattern recognition, and anomaly detection.
 
-## How It Works
+## How It Works:
 Unsupervised learning algorithms aim to identify patterns and structures in data by analyzing the inherent relationships between data points. The process typically involves the following steps:
 
 1. Data Preprocessing: This step involves cleaning and transforming the raw data to make it suitable for analysis. It may include tasks such as data normalization, feature scaling, and handling missing values.
@@ -18,7 +18,7 @@ Unsupervised learning algorithms aim to identify patterns and structures in data
 
 5. Association Rule Mining: Association rule mining is used to discover interesting relationships or associations between different items in a dataset. It is commonly used in market basket analysis and recommendation systems.
 
-## Types of Unsupervised Learning
+## Types of Unsupervised Learning:
 There are several types of unsupervised learning algorithms, each serving a different purpose:
 
 1. Clustering: Clustering algorithms group similar data points together based on their similarity or proximity. Examples include k-means, hierarchical clustering, and DBSCAN.
@@ -27,7 +27,7 @@ There are several types of unsupervised learning algorithms, each serving a diff
 
 3. Anomaly Detection: Anomaly detection algorithms identify unusual or abnormal data points that deviate from the expected patterns. Examples include isolation forests and one-class SVM.
 
-## Limitations
+## Limitations:
 While unsupervised learning is a powerful tool for exploratory data analysis, it has some limitations:
 
 1. Lack of Ground Truth: Since unsupervised learning algorithms work on unlabeled data, there is no ground truth to evaluate their performance objectively. Evaluation metrics are often subjective and domain-specific.
