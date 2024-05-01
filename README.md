@@ -45,10 +45,10 @@ For further reading and resources, please refer to the following:
 - Python Jupyter Notebooks.
 - Common data science libraries such as Pandas, Matplotlib, Seaborn, NumPy, and Scikit-Learn.
 - ChatGPT and Github Copilot (In accordance with the course rules).
-- Dr. Davila's course materials, which can be found on youtube.
+- Dr. Davila's course materials, which can be found on youtube [here](https://www.youtube.com/watch?v=Oqg6eoYfp18&list=PLiUo37D6MN3Fc-lICEHyR46VfwynkIRrf).
 
 ## Conclusions:
 
 For me, this repository served as a way for me to understand machine learning algorithms. I hope for others, it will serve as a practical resource for understanding and implementing machine learning algorithms within the context of data science, providing valuable insights into the applications and techniques of this rapidly evolving field.
 
-I'm excited to continue my jounry with machine learning, but, if nothing else, I hope I get just a little bit better at fantasy fútbol :)
+I'm excited to continue my journey with machine learning, but, if nothing else, I hope I get just a little bit better at fantasy fútbol :)
